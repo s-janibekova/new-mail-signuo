@@ -1,0 +1,11 @@
+{
+  "name": "news-mail-signup",
+  "version": "1.0.0",
+  "description": "simple signup app by email and allows send to your friends emails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s-janibekova",
+  "license": "ISC"
+}
